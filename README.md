@@ -18,11 +18,11 @@ https://www.javatpoint.com/php-pdo
 
 ## How to use?
 
-- $host       
+- <code>$host</code>        
  You should assign your host to this variable; e.g: if you use localserver you should assign "localhost".
-- $DB_name    
+- <code>$DB_name</code> 
  You should assign your database name to this variable; e.g: university.
-- $DB_user    
+- <code>$DB_user</code>
  You should assign your database name to this variable; e.g: root.
-- $DB_pass    
+- <code>$DB_pass</code> 
  You should assign your database password to this variable; e.g: sedfdg44
