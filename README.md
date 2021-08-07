@@ -20,7 +20,7 @@ https://www.javatpoint.com/php-pdo
 
 Run the following code to install:
 
-<code>git clone https://github.com/m-shariatzadeh/Database-Config-File-PHP.git</code>
+`git clone https://github.com/m-shariatzadeh/Database-Config-File-PHP.git`
 
 ## How to use?
 
