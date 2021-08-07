@@ -16,9 +16,13 @@ PDO refers to PHP Data Object, which is a PHP extension that defines a lightweig
 For more information and benefits of using PDO follow link: 
 https://www.javatpoint.com/php-pdo
 
-## Tutorial
+## How to use?
 
-- $host       --- You should assign your host to this variable; e.g: if you use localserver you should assign "localhost".
-- $DB_name    --- You should assign your database name to this variable; e.g: university.
-- $DB_user    --- You should assign your database name to this variable; e.g: root.
-- $DB_pass    --- You should assign your database password to this variable; e.g: sedfdg44
+- $host       
+ You should assign your host to this variable; e.g: if you use localserver you should assign "localhost".
+- $DB_name    
+ You should assign your database name to this variable; e.g: university.
+- $DB_user    
+ You should assign your database name to this variable; e.g: root.
+- $DB_pass    
+ You should assign your database password to this variable; e.g: sedfdg44

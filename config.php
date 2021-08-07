@@ -1,5 +1,7 @@
 <?php
 
+// Please assign the following variables According to what is said in the documentation.
+
 try {
     $host    = "<HOST_NAME>";
     $DB_name = "<DATABASE_NAME>";
