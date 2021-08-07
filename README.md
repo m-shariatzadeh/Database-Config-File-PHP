@@ -16,6 +16,12 @@ PDO refers to PHP Data Object, which is a PHP extension that defines a lightweig
 For more information and benefits of using PDO follow link: 
 https://www.javatpoint.com/php-pdo
 
+## Installation
+
+Run the following code to install:
+
+<code>git clone https://github.com/m-shariatzadeh/Database-Config-File-PHP.git</code>
+
 ## How to use?
 
 - <code>$host</code>
